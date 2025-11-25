@@ -80,3 +80,8 @@ https://webrtchacks.com/how-openai-does-webrtc-in-the-new-gpt-realtime/
 https://bun.com/docs/runtime/ffi
 
 https://x.com/Baheet_/status/1965758390430208066
+
+
+## Gurleen's Learning List:
+
+- Bun with Hono - [Date:Nov-25-2025](https://www.youtube.com/playlist?list=PLRGAFpvDgm2z9xvmyW3Zqls3JQzhiFOSd)

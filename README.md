@@ -85,3 +85,5 @@ https://x.com/Baheet_/status/1965758390430208066
 ## Gurleen's Learning List:
 
 - Bun with Hono - [Date:Nov-25-2025](https://www.youtube.com/playlist?list=PLRGAFpvDgm2z9xvmyW3Zqls3JQzhiFOSd)
+
+- Golang API Course Book - [Date: Nov-26-2025](https://edu.anarcho-copy.org/Programming%20Languages/Go/Building%20RESTful%20Web%20Serviceswith%20Go.pdf)

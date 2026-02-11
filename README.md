@@ -93,3 +93,5 @@ https://x.com/Baheet_/status/1965758390430208066
 - React Internals Deep Dive - [Date: Dec-8-2025](https://jser.dev/series/react-source-code-walkthrough/)
 
 - Building an LLM from scratch in Rust - [Date: Jan-29-2026](https://www.tag1.com/how-to/part1-tokenization-building-an-llm-from-scratch-in-rust/)
+
+- Learning Cryptography with Zig - [Date: Feb 11-2026](https://www.youtube.com/watch?v=Hx06ql-bFwQ)

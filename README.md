@@ -97,3 +97,5 @@ https://x.com/Baheet_/status/1965758390430208066
 - Learning Cryptography with Zig - [Date: Feb 11-2026](https://www.youtube.com/watch?v=Hx06ql-bFwQ)
 
 - Very useful website to learn about Software, simple, informative yet elegant - [Date: Feb 27- 2026](https://www.makingsoftware.com/chapters/how-is-data-stored)
+
+- Creating Zod from scratch - [Date: March 11-2026](https://zackoverflow.dev/writing/write-your-own-zod)
